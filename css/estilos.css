@@ -7,6 +7,18 @@ body{
     background-color: #ffe4c4;
     width: 70%;
     margin: auto;
-    border-radius: 30px;
     border: 3px solid  black ;
+}
+.cabecera{
+    background:rgb(14, 14, 105) ;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+.titulo{
+    font-size: 25px;
+}
+.post{
+    padding: 1em;
 }
